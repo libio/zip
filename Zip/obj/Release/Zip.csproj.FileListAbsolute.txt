@@ -1,0 +1,14 @@
+C:\Users\13454\source\repos\Zip\Zip\bin\Release\Zip.exe.config
+C:\Users\13454\source\repos\Zip\Zip\bin\Release\Zip.exe
+C:\Users\13454\source\repos\Zip\Zip\bin\Release\Zip.pdb
+C:\Users\13454\source\repos\Zip\Zip\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\13454\source\repos\Zip\Zip\bin\Release\Klik.Windows.Forms.EntryLib.V2.2005.dll
+C:\Users\13454\source\repos\Zip\Zip\obj\Release\Zip.csprojAssemblyReference.cache
+C:\Users\13454\source\repos\Zip\Zip\obj\Release\Zip.Form1.resources
+C:\Users\13454\source\repos\Zip\Zip\obj\Release\Zip.Properties.Resources.resources
+C:\Users\13454\source\repos\Zip\Zip\obj\Release\Zip.csproj.GenerateResource.cache
+C:\Users\13454\source\repos\Zip\Zip\obj\Release\Zip.exe.licenses
+C:\Users\13454\source\repos\Zip\Zip\obj\Release\Zip.csproj.CoreCompileInputs.cache
+C:\Users\13454\source\repos\Zip\Zip\obj\Release\Zip.csproj.CopyComplete
+C:\Users\13454\source\repos\Zip\Zip\obj\Release\Zip.exe
+C:\Users\13454\source\repos\Zip\Zip\obj\Release\Zip.pdb

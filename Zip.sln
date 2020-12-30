@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zip", "Zip\Zip.csproj", "{46A24150-4768-49B3-8D25-F3103CB85BAA}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "instalador", "instalador\instalador.vdproj", "{AF002590-726C-418A-ADA5-77E55234272C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46A24150-4768-49B3-8D25-F3103CB85BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A24150-4768-49B3-8D25-F3103CB85BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A24150-4768-49B3-8D25-F3103CB85BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A24150-4768-49B3-8D25-F3103CB85BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF002590-726C-418A-ADA5-77E55234272C}.Debug|Any CPU.ActiveCfg = Debug
+		{AF002590-726C-418A-ADA5-77E55234272C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {466C99DF-2AD7-48C9-8937-1E05A31344A2}
+	EndGlobalSection
+EndGlobal

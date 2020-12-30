@@ -1,0 +1,14 @@
+C:\Users\13454\source\repos\Zip\Zip\bin\Debug\Zip.exe.config
+C:\Users\13454\source\repos\Zip\Zip\bin\Debug\Zip.exe
+C:\Users\13454\source\repos\Zip\Zip\bin\Debug\Zip.pdb
+C:\Users\13454\source\repos\Zip\Zip\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\13454\source\repos\Zip\Zip\obj\Debug\Zip.csprojAssemblyReference.cache
+C:\Users\13454\source\repos\Zip\Zip\obj\Debug\Zip.Form1.resources
+C:\Users\13454\source\repos\Zip\Zip\obj\Debug\Zip.Properties.Resources.resources
+C:\Users\13454\source\repos\Zip\Zip\obj\Debug\Zip.csproj.GenerateResource.cache
+C:\Users\13454\source\repos\Zip\Zip\obj\Debug\Zip.csproj.CoreCompileInputs.cache
+C:\Users\13454\source\repos\Zip\Zip\obj\Debug\Zip.csproj.CopyComplete
+C:\Users\13454\source\repos\Zip\Zip\obj\Debug\Zip.exe
+C:\Users\13454\source\repos\Zip\Zip\obj\Debug\Zip.pdb
+C:\Users\13454\source\repos\Zip\Zip\bin\Debug\Klik.Windows.Forms.EntryLib.V2.2005.dll
+C:\Users\13454\source\repos\Zip\Zip\obj\Debug\Zip.exe.licenses
