@@ -77,6 +77,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(474, 39);
             this.panel1.TabIndex = 0;
+            this.panel1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
             // 
             // elButton1
             // 
@@ -206,7 +207,6 @@
             elListBoxItem1.Selected = true;
             elListBoxItem1.Value = ".Zip";
             elListBoxItem2.Value = ".7z";
-            elListBoxItem3.Selected = true;
             elListBoxItem3.Value = ".Rar";
             this.cb_Formato.Items.Add(elListBoxItem1);
             this.cb_Formato.Items.Add(elListBoxItem2);

@@ -65,6 +65,12 @@ namespace Zip
             tb_NameArch.Focus();
         }
 
+        private void panel1_MouseMove(object sender, MouseEventArgs e)
+        {
+            Utilarios util = new Utilarios();
+            util.Mover_formulario(this);
+        }
+
         public void Comprimir_Archivos()
         {
             Name_Archivo = tb_NameArch.Text.Trim();

@@ -3,7 +3,6 @@ C:\Users\13454\source\repos\Zip\Zip\bin\Release\Zip.exe
 C:\Users\13454\source\repos\Zip\Zip\bin\Release\Zip.pdb
 C:\Users\13454\source\repos\Zip\Zip\bin\Release\Bunifu_UI_v1.52.dll
 C:\Users\13454\source\repos\Zip\Zip\bin\Release\Klik.Windows.Forms.EntryLib.V2.2005.dll
-C:\Users\13454\source\repos\Zip\Zip\obj\Release\Zip.csprojAssemblyReference.cache
 C:\Users\13454\source\repos\Zip\Zip\obj\Release\Zip.Form1.resources
 C:\Users\13454\source\repos\Zip\Zip\obj\Release\Zip.Properties.Resources.resources
 C:\Users\13454\source\repos\Zip\Zip\obj\Release\Zip.csproj.GenerateResource.cache
